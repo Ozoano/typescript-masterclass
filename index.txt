@@ -1,0 +1,15 @@
+/**
+ * Typescript and its Benefits
+ *
+ * Typescript - a lang built ontop of js to give it extra features
+ *
+ * ******************* benefits *********************
+ * - better error feedback
+ * - better auto completion and code hints
+ * - custome types
+ * - self documenting
+ *
+ */
+var age = 30;
+// let age = "string"
+console.log(age);
